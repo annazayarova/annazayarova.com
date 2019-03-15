@@ -2,5 +2,5 @@
 
 [annazayarova.com](http://annazayarova.com)
 
-My personal website built with React.js and styled-components
-and hosted on github.io
+My personal website built with React.js, styled-components.
+It is hosted on github.io
